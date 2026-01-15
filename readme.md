@@ -1,12 +1,5 @@
 # Retail Sales Forecasting & Inventory Analysis | Power BI
 
-<p align="center">
-
-![Visão Geral](images/visao_geral.PNG)
-
-</p>
-
-
 ## 🇧🇷 Visão Geral do Projeto
 
 Este projeto tem como objetivo analisar o comportamento das vendas, identificar padrões de sazonalidade e avaliar a eficiência do estoque ao longo do tempo, utilizando o Power BI como principal ferramenta de análise e visualização de dados.
@@ -148,6 +141,7 @@ The dashboard was designed with a decision-making focus, delivering clear KPIs, 
 
 Marcelo Nepomuceno  
 Production Engineering | Business Intelligence | Data Analytics  
+
 
 
 
