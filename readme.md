@@ -1,8 +1,6 @@
 # Retail Sales Forecasting & Inventory Analysis | Power BI
 
-<p align="center">
-  <img src="images/visao_geral.png" width="900">
-</p>
+![Visão Geral](images/visao_geral.png)
 
 
 ## 🇧🇷 Visão Geral do Projeto
@@ -146,4 +144,5 @@ The dashboard was designed with a decision-making focus, delivering clear KPIs, 
 
 Marcelo Nepomuceno  
 Production Engineering | Business Intelligence | Data Analytics  
+
 
