@@ -1,6 +1,10 @@
 # Retail Sales Forecasting & Inventory Analysis | Power BI
 
+<p align="center">
+
 ![Visão Geral](images/visao_geral.png)
+
+</p>
 
 
 ## 🇧🇷 Visão Geral do Projeto
@@ -24,7 +28,7 @@ O dashboard foi desenvolvido com foco em tomada de decisão, apresentando métri
 ## 📊 Estrutura do Dashboard
 
 ### 🔹 Visão Geral
-![Visão Geral](images/visao_geral.png)
+![Visão Geral](images/visao_geral.PNG)
 
 - Evolução das vendas mensais
 - Média móvel de 3 meses
@@ -32,14 +36,14 @@ O dashboard foi desenvolvido com foco em tomada de decisão, apresentando métri
 - Insight sobre tendência e estabilidade da demanda
 
 ### 🔹 Sazonalidade de Vendas
-![Sazonalidade](images/sazonalidade.png)
+![Sazonalidade](images/sazonalidade.PNG)
 
 - Comparação mensal de vendas por ano
 - Padrão sazonal médio (ajustado para evitar viés de dados incompletos)
 - Análise de comportamento recorrente ao longo do ano
 
 ### 🔹 Gestão de Estoque
-![Estoque](images/estoque.png)
+![Estoque](images/estoque.PNG)
 
 - Evolução do estoque ao longo do tempo
 - Relação entre vendas e nível de estoque (análise focada em 2016)
@@ -144,5 +148,6 @@ The dashboard was designed with a decision-making focus, delivering clear KPIs, 
 
 Marcelo Nepomuceno  
 Production Engineering | Business Intelligence | Data Analytics  
+
 
 
