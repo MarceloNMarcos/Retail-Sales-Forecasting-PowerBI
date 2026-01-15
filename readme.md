@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![Visão Geral](images/visao_geral.png)
+![Visão Geral](images/visao_geral.PNG)
 
 </p>
 
@@ -148,6 +148,7 @@ The dashboard was designed with a decision-making focus, delivering clear KPIs, 
 
 Marcelo Nepomuceno  
 Production Engineering | Business Intelligence | Data Analytics  
+
 
 
 
